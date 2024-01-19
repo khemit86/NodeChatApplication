@@ -25,10 +25,10 @@ var apns = require('apn'); // for iphone
 var gcm = require('node-gcm'); // for android
 
 var db_config = {
-  host: '119.31.233.198',
-    user: 'woleroc_wlrwobs',
-    password: '2t7kWFIs7KQC',
-    database: 'woleroc_wolero_limo'
+  host: 'xx.xx.xx.xx',
+    user: 'test',
+    password: 'test',
+    database: 'test'
 };
 var connection;
 var last_record_added='';
